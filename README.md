@@ -18,3 +18,16 @@
 - A forma com que seu código é escrito é diferente da ordem em que é executado
 - Importante sempre manter a ordem de sua execução para evitar problemas
 
+#### Promises
+- Pending: Estado inicial, ainda não terminou ou ainda não foi rejeitado
+- Fulfilled: QUando executou todas as operações com sucesso
+- Rejected: Quando a operação falhou
+
+#### EventEmitter
+- **Usado para ações contínuas**
+- Node.js usa para quase tudo em seu ecossistema
+- Bastante usado também nos browsers (onClick)
+- Trabalha sob o Design Pattern Observer/PubSub
+
+### Manipulação de Lista
+
