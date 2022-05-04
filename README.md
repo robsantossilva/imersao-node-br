@@ -31,3 +31,17 @@
 
 ### Manipulação de Lista
 
+### Introdução a desenvolvimento de testes automatizados em Javascript
+
+#### Mocha
+https://mochajs.org/
+
+#### Pacote Assert do NodeJS
+``` javascript
+const assert = require('assert')
+assert.ok(true);
+```
+
+### Node além da Web
+
+#### Manupilando arquivos
